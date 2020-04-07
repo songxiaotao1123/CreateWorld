@@ -1,4 +1,4 @@
-﻿--查詢所有關聯賠案
+﻿--查詢所有關聯賠案123456789
 
 SELECT t3.object_id, t3.related_object_id
   FROM t_clm_case t1, t_clm_object t2, t_clm_object_related t3
